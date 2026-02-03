@@ -13,7 +13,7 @@ I've been messing with computers since I was 5. Started with Scratch and Roblox 
 - Learning more about backend development
 
 **Past projects:**
-- CrnklCraft — Built a server to 500 members in 3 weeks
+- CrnklCraft - Built a Minecraft server to 500 members in 3 weeks
 - Contributed to multiple 1500+ member servers as dev and sysadmin
 - Designed a social platform concept with a Python recommendation algorithm (never launched, learned a lot)
 
