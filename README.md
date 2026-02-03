@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hey, I'm Neil
 
-<!--
-**Crnklbrry/Crnklbrry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been messing with computers since I was 5. Started with Scratch and Roblox Studio, now I run game servers and build communities.
 
-Here are some ideas to get you started:
+**What I do:**
+- Server administration (Linux, Windows)
+- Minecraft server architecture and plugin configuration
+- Community management (built and managed servers with 500-1500+ members)
+- Python scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:**
+- Lead developer at VitalityMC (850+ member Minecraft server)
+- Learning more about backend development
+
+**Past projects:**
+- CrnklCraft — Built a server to 500 members in 3 weeks
+- Contributed to multiple 1500+ member servers as dev and sysadmin
+- Designed a social platform concept with a Python recommendation algorithm (never launched, learned a lot)
+
+**Get in touch:**
+- Discord: @crnklbrry
+- Email: NeilAstra@proton.me
