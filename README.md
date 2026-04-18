@@ -1,4 +1,4 @@
-### Hey, I'm Neil
+### Hey, I'm Crnkl
 
 I've been messing with computers since I was 5. Started with Scratch and Roblox Studio, now I run game servers and build communities.
 
