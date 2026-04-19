@@ -9,7 +9,7 @@ I've been messing with computers since I was 5. Started with Scratch and Roblox 
 - Python scripting
 
 **Currently:**
-- Lead developer at VitalityMC (850+ member Minecraft server)
+- Lead developer at VitalityMC (1k+ member Minecraft server)
 - Learning more about backend development
 
 **Past projects:**
