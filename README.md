@@ -1,17 +1,16 @@
-### Hey, I'm Crnkl
+### Hey, I'm Crnkl!
 
 
 
 **What I do:**
+
+- AI Prompt & Systems engineering
 
 - Server administration (Linux, Windows)
 
 - Minecraft server architecture and plugin configuration
 
 - Community management (built and managed servers with 500-1500+ members)
-
-- Python scripting
-
 
 
 **Tech & Tools:**
@@ -22,11 +21,11 @@
 
 **Currently:**
 
-- Lead Developer at CraterMC
+- Chief Operations Officer @ ToldMe.to
 
 - Developing a new social media platform
 
-- Learning more about backend development, cybersecurity, and AI
+- Learning more about corporate economics, cybersecurity, and AI
 
 
 
